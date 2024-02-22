@@ -13,6 +13,6 @@ INSTAGRAM_PASSWORD = "your_password"
 OPENAI_API_KEY = "your_api_key"
 ``````
 
-## Running the App
+## Running the App Locally
 
 ``` streamlit run streamlit_df.py ```
