@@ -2,6 +2,8 @@
 
 Marketing tool for SMBs. Developed as part of Google PM Hackathon.
 
+Team Members: [Jason Jia](https://www.linkedin.com/in/jasonjiajs/), [Maxime Wolf](https://www.linkedin.com/in/maxime-wolf/), [Minnie Arunaramwong](https://www.linkedin.com/in/minnie-arunaramwong/), [Nuobei Zhang](https://www.linkedin.com/in/nuobeizhang/), [Raghav Jayahnthi](https://www.linkedin.com/in/rrmj/)
+
 ## Instructions
 
 Create an `api_keys.py` file structured as follows:
