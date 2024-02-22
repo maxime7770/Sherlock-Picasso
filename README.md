@@ -18,3 +18,9 @@ OPENAI_API_KEY = "your_api_key"
 ## Running the App Locally
 
 ``` streamlit run streamlit_df.py ```
+
+
+
+## Project Description
+
+<img src="summary_slide.png" alt="banner" height="500">
