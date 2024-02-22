@@ -1,6 +1,6 @@
 # Sherlock Picasso
 
-Marketing too, for SMBs. Developed as part of Google PM Hackathon.
+Marketing tool for SMBs. Developed as part of Google PM Hackathon.
 
 ## Instructions
 
