@@ -1,0 +1,9 @@
+instaloader
+openai
+streamlit
+wordcloud
+streamlit-tags
+imgbbpy
+matplotlib
+instaloader
+htbuilder
