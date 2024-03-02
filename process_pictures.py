@@ -112,7 +112,7 @@ def process_dataframe(path_dataframe, top=10, metrics="likes/followers"):
         list_dics.append(output)
         print("=====")
     # save dictionary in a json file
-    with open("results/top5.json", "w") as f:
+    with open("results/top5_user.json", "w") as f:
         json.dump(list_dics, f, cls=NpEncoder)
     
 
