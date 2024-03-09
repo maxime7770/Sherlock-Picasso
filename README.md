@@ -24,3 +24,8 @@ OPENAI_API_KEY = "your_api_key"
 ## Project Description
 
 <img src="summary_slide.png" alt="banner" height="500">
+
+## Product Demo
+
+https://github.com/maxime7770/Sherlock-Picasso/assets/58089609/1f5b4746-f8a2-4c35-8ed0-13cd5fa475b7
+
